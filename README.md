@@ -8,7 +8,7 @@
 
 This is a [Terraform](https://www.terraform.io/) project for managing AWS resources. 
 
-It can build the next infrastructure:
+It can build the following infrastructure:
 
 * [VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 * Public [Subnet](https://docs.aws.amazon.com/vpc/latest/userguide/working-with-vpcs.html#AddaSubnet) in the `VPC`
